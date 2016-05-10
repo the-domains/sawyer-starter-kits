@@ -1,0 +1,28 @@
+name: sawyer starter kits
+favicon: null
+layout_spectrum: 0.04375466099008918
+typography_spectrum: 0.9880761401727796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8713396755047143
+  lightness: 0.4939990537241101
+  saturation: 0.8440265562385321
+  rhythmicContrast: 0.9004969510715455
+purpose: []
